@@ -1,2 +1,2 @@
 My First Repository
-Hello Sugar Lab
+Hello Sugar Labs
